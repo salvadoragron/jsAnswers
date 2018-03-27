@@ -67,3 +67,5 @@ sliceJAndRName(firstName)
 
 console.log("Calling sliceJAndRName function on my last name which does not start with a J but with an R")
 sliceJAndRName(lastName)
+
+console.log("\n\n\n...All done :)")
